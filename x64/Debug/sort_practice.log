@@ -1,0 +1,10 @@
+﻿  Sort.cpp
+D:\code c++\2025-2026\sort_practice\sort_practice\Sort.cpp(15,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code c++\2025-2026\sort_practice\sort_practice\Sort.cpp(56,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\code c++\2025-2026\sort_practice\sort_practice\Sort.cpp(91,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\code c++\2025-2026\sort_practice\sort_practice\Sort.cpp(109,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\code c++\2025-2026\sort_practice\sort_practice\Sort.cpp(129,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Helper.cpp
+  Generating Code...
+  sort_practice.vcxproj -> D:\code c++\2025-2026\sort_practice\x64\Debug\sort_practice.exe
